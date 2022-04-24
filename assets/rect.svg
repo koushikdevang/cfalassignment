@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="100%" version="1.1" viewBox="0 0 22 13" class="ng-scope">
+    <g transform="translate(168 -42)">
+        <g transform="matrix(.26458 0 0 .26458 -185 5)">
+            <g transform="matrix(.92612 0 0 .92612 -112 -483)">
+                <g style="isolation:isolate" transform="translate(-356 1922) scale(1.07978)">
+                    <rect width="36.4" height="31.7" x="0" y="0" fill="#440059" rx="3" transform="rotate(-1 -65961 -30108)"></rect>
+                    <rect width="36.4" height="31.7" x="0" y="0" fill="#79009f" rx="3" transform="rotate(-1 -65515 -30692)"></rect>
+                    <rect width="36.4" height="31.7" x="0" y="0" fill="#9f00d1" rx="3" transform="rotate(-1 -64995 -31348)"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
